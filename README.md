@@ -1,4 +1,6 @@
 # EU Interoperability Notes  
+_Last updated: November 2025_
+
 Documentation and conceptual notes related to EU digital interoperability frameworks, standards and cross-border system alignment.
 
 ## About this repository
