@@ -1,2 +1,2 @@
-# eu-interoperability-notes
-Notes and conceptual documentation on EU interoperability frameworks and digital standards.
+# EU Interoperability Notes
+Conceptual notes and reference principles related to EU digital standards, cross-border interoperability and secure information exchange.
